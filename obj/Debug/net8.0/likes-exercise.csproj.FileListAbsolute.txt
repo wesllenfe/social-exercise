@@ -1,0 +1,14 @@
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\bin\Debug\net8.0\likes-exercise.exe
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\bin\Debug\net8.0\likes-exercise.deps.json
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\bin\Debug\net8.0\likes-exercise.runtimeconfig.json
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\bin\Debug\net8.0\likes-exercise.dll
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\bin\Debug\net8.0\likes-exercise.pdb
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.dll
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\refint\likes-exercise.dll
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.pdb
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\likes-exercise.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Documentos\projetos\likes-exercise\likes-exercise\obj\Debug\net8.0\ref\likes-exercise.dll
